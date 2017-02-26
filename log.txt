@@ -1,0 +1,188 @@
+ Couples Asigned :	Rajeev	Priya
+ Couples Asigned :	Rahul	Jennifer
+ Couples Asigned :	Rohan	Mega
+ Couples Asigned :	Sameer	Radika
+ Couples Asigned :	Kartik	Pooja
+ Couples Asigned :	Steve Jacobson	Lara
+Rajeev	Gifted 	Bracelet-------To---Priya----of price----2300
+
+Rajeev	Gifted 	Watch-------To---Priya----of price----2000
+
+Rajeev	Gifted 	Teddy Bear-------To---Priya----of price----1900
+
+Rajeev	Gifted 	Book-------To---Priya----of price----800
+
+Rahul	Gifted 	Teddy Bear-------To---Jennifer----of price----1900
+
+Rahul	Gifted 	Bracelet-------To---Jennifer----of price----2300
+
+Rahul	Gifted 	Watch	   To Jennifer	of price	2000
+
+Rohan	Gifted 	Book-------To---Mega----of price----800
+
+Rohan	Gifted 	Teddy Bear-------To---Mega----of price----1900
+
+Rohan	Gifted 	Watch-------To---Mega----of price----2000
+
+Rohan	Gifted 	Bracelet-------To---Mega----of price----2300
+
+Sameer	Gifted 	Bracelet-------To---Radika----of price----2300
+
+Sameer	Gifted 	Watch-------To---Radika----of price----2000
+
+Sameer	Gifted 	Teddy Bear-------To---Radika----of price----1900
+
+Sameer	Gifted 	Book-------To---Radika----of price----800
+
+Kartik	Gifted 	Teddy Bear-------To---Pooja----of price----1900
+
+Kartik	Gifted 	Bracelet-------To---Pooja----of price----2300
+
+Kartik	Gifted 	Watch	   To Pooja	of price	2000
+
+Steve Jacobson	Gifted 	Bracelet-------To---Lara----of price----2300
+
+Steve Jacobson	Gifted 	Teddy Bear-------To---Lara----of price----1900
+
+Steve Jacobson	Gifted 	Watch	   To Lara	of price	2000
+
+Rajeev	Gifted 	Bracelet-------To---Priya----of price----2300
+
+Rajeev	Gifted 	Watch-------To---Priya----of price----2000
+
+Rajeev	Gifted 	Teddy Bear-------To---Priya----of price----1900
+
+Rajeev	Gifted 	Book-------To---Priya----of price----800
+
+Rahul	Gifted 	Teddy Bear-------To---Jennifer----of price----1900
+
+Rahul	Gifted 	Bracelet-------To---Jennifer----of price----2300
+
+Rahul	Gifted 	Watch	   To Jennifer	of price	2000
+
+Rohan	Gifted 	Book-------To---Mega----of price----800
+
+Rohan	Gifted 	Teddy Bear-------To---Mega----of price----1900
+
+Rohan	Gifted 	Watch-------To---Mega----of price----2000
+
+Rohan	Gifted 	Bracelet-------To---Mega----of price----2300
+
+Sameer	Gifted 	Book-------To---Radika----of price----800
+
+Sameer	Gifted 	Teddy Bear-------To---Radika----of price----1900
+
+Sameer	Gifted 	Watch-------To---Radika----of price----2000
+
+Sameer	Gifted 	Bracelet-------To---Radika----of price----2300
+
+Kartik	Gifted 	Bracelet-------To---Pooja----of price----2300
+
+Kartik	Gifted 	Teddy Bear-------To---Pooja----of price----1900
+
+Kartik	Gifted 	Book	   To Pooja	of price	800
+
+Steve Jacobson	Gifted 	Bracelet-------To---Lara----of price----2300
+
+Steve Jacobson	Gifted 	Watch-------To---Lara----of price----2000
+
+Steve Jacobson	Gifted 	Teddy Bear-------To---Lara----of price----1900
+
+Steve Jacobson	Gifted 	Book-------To---Lara----of price----800
+
+Rajeev	Gifted 	Bracelet-------To---Priya----of price----2300
+
+Rajeev	Gifted 	Teddy Bear-------To---Priya----of price----1900
+
+Rajeev	Gifted 	Watch	   To Priya	of price	2000
+
+Rahul	Gifted 	Bracelet-------To---Jennifer----of price----2300
+
+Rahul	Gifted 	Watch-------To---Jennifer----of price----2000
+
+Rahul	Gifted 	Teddy Bear-------To---Jennifer----of price----1900
+
+Rahul	Gifted 	Book-------To---Jennifer----of price----800
+
+Rohan	Gifted 	Teddy Bear-------To---Mega----of price----1900
+
+Rohan	Gifted 	Bracelet-------To---Mega----of price----2300
+
+Rohan	Gifted 	Watch-------To---Mega----of price----2000
+
+Rohan	Gifted 	Book	   To Mega	of price	800
+
+Sameer	Gifted 	Bracelet-------To---Radika----of price----2300
+
+Sameer	Gifted 	Watch-------To---Radika----of price----2000
+
+Sameer	Gifted 	Teddy Bear-------To---Radika----of price----1900
+
+Sameer	Gifted 	Book-------To---Radika----of price----800
+
+Kartik	Gifted 	Bracelet-------To---Pooja----of price----2300
+
+Kartik	Gifted 	Watch-------To---Pooja----of price----2000
+
+Kartik	Gifted 	Teddy Bear-------To---Pooja----of price----1900
+
+Kartik	Gifted 	Book-------To---Pooja----of price----800
+
+Steve Jacobson	Gifted 	Book-------To---Lara----of price----800
+
+Steve Jacobson	Gifted 	Teddy Bear-------To---Lara----of price----1900
+
+Steve Jacobson	Gifted 	Watch-------To---Lara----of price----2000
+
+Steve Jacobson	Gifted 	Bracelet-------To---Lara----of price----2300
+
+ Couples Asigned :	Rajeev	Priya
+ Couples Asigned :	Rahul	Jennifer
+ Couples Asigned :	Rohan	Mega
+ Couples Asigned :	Sameer	Radika
+ Couples Asigned :	Kartik	Pooja
+ Couples Asigned :	Steve Jacobson	Lara
+Rajeev	Gifted 	Bracelet-------To---Priya----of price----2300
+
+Rajeev	Gifted 	Watch-------To---Priya----of price----2000
+
+Rajeev	Gifted 	Teddy Bear-------To---Priya----of price----1900
+
+Rajeev	Gifted 	Book-------To---Priya----of price----800
+
+Rahul	Gifted 	Bracelet-------To---Jennifer----of price----2300
+
+Rahul	Gifted 	Watch-------To---Jennifer----of price----2000
+
+Rahul	Gifted 	Teddy Bear-------To---Jennifer----of price----1900
+
+Rahul	Gifted 	Book-------To---Jennifer----of price----800
+
+Rohan	Gifted 	Teddy Bear-------To---Mega----of price----1900
+
+Rohan	Gifted 	Bracelet-------To---Mega----of price----2300
+
+Rohan	Gifted 	Watch-------To---Mega----of price----2000
+
+Rohan	Gifted 	Book	   To Mega	of price	800
+
+Sameer	Gifted 	Bracelet-------To---Radika----of price----2300
+
+Sameer	Gifted 	Watch-------To---Radika----of price----2000
+
+Sameer	Gifted 	Teddy Bear-------To---Radika----of price----1900
+
+Sameer	Gifted 	Book-------To---Radika----of price----800
+
+Kartik	Gifted 	Teddy Bear-------To---Pooja----of price----1900
+
+Kartik	Gifted 	Bracelet-------To---Pooja----of price----2300
+
+Kartik	Gifted 	Watch	   To Pooja	of price	2000
+
+Steve Jacobson	Gifted 	Bracelet-------To---Lara----of price----2300
+
+Steve Jacobson	Gifted 	Teddy Bear-------To---Lara----of price----1900
+
+Steve Jacobson	Gifted 	Watch	   To Lara	of price	2000
+
