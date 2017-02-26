@@ -1,6 +1,6 @@
 ## PPL_Assignment
 
-Principal of programming language assignment  by **Prof Rahul Kala **  submited by Abhishek Negi IIT2015126
+Principal of programming language assignment  by **Prof Rahul Kala**  submited by Abhishek Negi IIT2015126
 ## Operating System
 Tested in kali linux 2
 ## Installation
