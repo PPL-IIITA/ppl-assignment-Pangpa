@@ -15,6 +15,7 @@ For Output commands is in **HowToExecute.txt** file
 For Documentation Steps is in **HowToDocument.txt** file
 
 Javadoc is used for documentation.
+Class Diagram is in the folder Question-3-9-1 and Question-4-5-6-7 
 
 
 ## Output
