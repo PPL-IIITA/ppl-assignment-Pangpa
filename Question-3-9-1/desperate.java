@@ -11,7 +11,7 @@ public class desperate extends girl {
 	/**
          * Description of Constructor 
          * @param nam (Girl's  Name)
-         * @param attr (Girl's Attractiveness)
+         * @param attv (Girl's Attractiveness)
          * @param bud (Girl's Maintenance_Budget)
          * @param iq (Girl's IQ Intelligence level )
          * @param cri (Girl Criteria )
