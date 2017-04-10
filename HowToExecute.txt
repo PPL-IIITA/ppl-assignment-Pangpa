@@ -1,0 +1,41 @@
+cd Question-3-9-1/
+
+For Question Number 3 execute
+
+java q3_main 
+
+For Question Number 9 execute 
+
+java q9_main
+
+File random.java is for Q10 data-structure 
+
+java random 
+
+Now for Question 4-5-6-7 first execute
+
+cd ..
+
+cd Question-4-5-6-7/
+
+For Question Number 4 execute 
+
+java q4_main 
+
+
+For Question Number 5 execute
+
+java q5_main 
+
+
+For Question Number 6 execute
+
+java q6
+
+ 
+For Question Number 7 Execute and Enter the Choice 
+
+java q7_main
+
+
+

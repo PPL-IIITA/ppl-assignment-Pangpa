@@ -1,0 +1,14 @@
+cd ppl-assignment-Pangpa-master/
+
+cd Question-3-9-1/
+
+javac *.java
+
+cd ..
+
+cd Question-4-5-6-7/
+
+Javac *.java
+
+cd ..
+
