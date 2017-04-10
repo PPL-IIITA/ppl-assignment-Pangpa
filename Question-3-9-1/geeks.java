@@ -15,7 +15,7 @@ public class geeks extends boy {
 	/**
          * Description of Constructor 
          * @param nam (Geek Boy Name)
-         * @param attr (Geek Boy Attractiveness)
+         * @param attv (Geek Boy Attractiveness)
          * @param bud (Geek Boy's Budget)
          * @param iq (Geek Boy IQ Intelligence level )
          * @param requ (Geek Boy requirement )
