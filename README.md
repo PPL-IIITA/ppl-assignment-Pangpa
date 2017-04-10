@@ -12,7 +12,7 @@ Build commands is in  **HowToBuild.txt** file
 
 For Output commands is in **HowToExecute.txt** file
 
-Fro Documentation Steps is in **HowToDocument.txt** file
+For Documentation Steps is in **HowToDocument.txt** file
 
 Javadoc is used for documentation.
 
