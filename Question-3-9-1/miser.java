@@ -10,7 +10,7 @@ public class miser extends boy {
 	/**
          * Description of Constructor 
          * @param nam (Boy Name)
-         * @param attr (Boy Attractiveness)
+         * @param attv (Boy Attractiveness)
          * @param bud (Boy's Budget)
          * @param iq (Boy IQ Intelligence level )
          * @param requ (Boy requirement )
