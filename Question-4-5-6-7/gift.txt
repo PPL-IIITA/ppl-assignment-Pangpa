@@ -1,0 +1,5 @@
+Teddy Bear	, 	96	,	1900	, Luxury 
+Watch 		, 	86	, 	2000		, Essential
+Bracelet 	, 	99	,	2300		, Luxury
+Book		, 	78	,	800		, Utility
+	

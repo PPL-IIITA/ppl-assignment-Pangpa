@@ -1,0 +1,6 @@
+Priya	,	90	 ,	132	,	4200.00         , Rich
+Jennifer ,	85	 ,	124	,	3400.00		, Attractive
+Mega	,	76	 ,	110	,	4600.00		, Intelligent
+Radika  ,	94	 ,	142	,	4000.00		, Attractive
+Pooja   ,	75       , 	132	,	3500.00		,  Rich
+Lara    , 	80 	 ,  	110 	, 	2900.00         , Intelligent
